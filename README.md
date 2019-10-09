@@ -10,7 +10,7 @@ You'll need to describe your design, include a video of your paper display in op
 
 **Link to a video of your virbation motor**
 
->> Video taken
+[Video of All](https://youtu.be/PuEp3y8Rnrc)
 
 ## Part B. Actuating Servo motors
 
@@ -38,13 +38,13 @@ The delay inbetween writing to the servo serves as a speed control for the devic
 
 **Include a photo/movie of your raw circuit in action.**
 
->>Video Taken
+[Video of All](https://youtu.be/PuEp3y8Rnrc)
 
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
->> Video Taken
+[Video of All](https://youtu.be/PuEp3y8Rnrc)
 
 
 ```
